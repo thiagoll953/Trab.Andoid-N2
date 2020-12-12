@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81055e7d-caf5-4e18-97e5-1e475437e5b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Compras2020_2/app/src/main/java/br/pro/adalto/compras2020_2/AbastecimentoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/.idea/markdown-navigator-enh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/src/main/java/br/pro/adalto/compras2020_2/AbasteceActivity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/src/main/java/br/pro/adalto/compras2020_2/AbasteceActivity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/src/main/java/br/pro/adalto/compras2020_2/Abastecimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/src/main/java/br/pro/adalto/compras2020_2/Abastecimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/src/main/res/layout/activity_abastece2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/src/main/res/layout/activity_abastece2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compras2020_2/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Compras2020_2/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Compras2020_2" />
+  </component>
+  <component name="ProjectId" id="1lR30eLPkcp1LCr06ZAfoaMcc8q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81055e7d-caf5-4e18-97e5-1e475437e5b0" name="Default Changelist" comment="" />
+      <created>1607545854739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607545854739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="226" key="#Notifications" timestamp="1607546055012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="226" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1607546055012" />
+  </component>
+</project>
